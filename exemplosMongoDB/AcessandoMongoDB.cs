@@ -52,7 +52,7 @@ namespace exemplosMongoDB
 
             await colecao.InsertOneAsync(doc);
 
-            Console.WriteLine("Documento inserido");
+            Console.WriteLine("Documento inserido com sucesso!");
 
 
 
